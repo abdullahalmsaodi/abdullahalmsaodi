@@ -19,8 +19,8 @@ Welcome to my GitHub portfolio.
   🔗 https://github.com/abdullah-almsaodi/abdullah-almsaodi
 
 ## 📈 GitHub Stats
-![GitHub contribution statistics showing commits, pull requests, and issues for Abdullah Almsaodi](https://github-readme-stats.vercel.app/api?username=abdullah-almsaodi&show_icons=true&theme=transparent)
-![Bar chart showing most used programming languages in Abdullah Almsaodi repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-almsaodi&layout=compact&theme=transparent)
+![GitHub Stats for Abdullah Almsaodi](https://github-readme-stats.vercel.app/api?username=abdullah-almsaodi&show_icons=true&theme=transparent)
+![Top Languages for Abdullah Almsaodi](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-almsaodi&layout=compact&theme=transparent)
 
 ## 📫 Contact
 - GitHub: [@abdullah-almsaodi](https://github.com/abdullah-almsaodi)
