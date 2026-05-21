@@ -2,28 +2,27 @@
 
 # I Make Awesome Shit Since 2024 🚀
 
-I am a full-stack developer passionate about frontend engineering, animations, and scalable web applications. My expertise includes Vue, Nuxt, GSAP, TailwindCSS, Laravel, Adonis.js, and more.
+I am a full-stack developer passionate about frontend engineering, animations, and scalable web applications. My expertise includes Vue, Nuxt, GSAP, TailwindCSS, Laravel, Adonis.js, and more—reflected in the projects below.
 
 ## 🚀 My Open Source Projects
 
-- **<a href="https://github.com/hetari/sulaf">Sulaf</a>**  
-  Beautiful, accessible Vue components built for shadcn-vue. Copy, paste, and make them yours.  
-  *A registry that extends shadcn-vue with pure, refined components.*
+- **<a href="https://github.com/abdullah-almsaodi/react-movies-platform">React Movies Platform</a>**  
+  A movie browsing platform built with React and JavaScript.
 
-- **<a href="https://github.com/hetari/shadcn-docs-template">Shadcn Documentation Template</a>**  
-  A template for building documentation websites like Shadcn does
+- **<a href="https://github.com/abdullah-almsaodi/javascript-amazon-project">JavaScript Amazon Project</a>**  
+  An e-commerce project inspired by Amazon, built with vanilla JavaScript.
 
-- **<a href="https://github.com/hetari/mesh-magic">Mesh Magic Generator</a>**  
-  A beautiful and intuitive mesh gradient generator built with Nuxt 4. Create stunning gradients for your next project with precision and style.
+- **<a href="https://github.com/abdullah-almsaodi/Abdullah-Qaid">Abdullah Qaid Portfolio</a>**  
+  A personal portfolio website built with TypeScript.
 
-- **<a href="https://github.com/hetari/vue-and-react-library-template">Vue and React Library Template</a>**  
-  A template for building reusable Vue and React libraries with Vite and TypeScript.
+- **<a href="https://github.com/abdullah-almsaodi/Sana-aAi">Sana'a AI</a>**  
+  A chatbot project focused on improving communication and information access for Sana'a University.
 
-- **<a href="https://github.com/hetari/vuejs-code-block">Vuejs Code Block</a>**  
-  A set of basic styled UI components for building powerful code blocks in Vue.
+- **<a href="https://github.com/abdullah-almsaodi/Apple-Stock-Prediction">Apple Stock Prediction</a>**  
+  A Python project for stock trend analysis and prediction.
 
-- **<a href="https://github.com/hetari/pyutube">Pyutube - YouTube Downloader CLI</a>**  
-  A simplest YouTube downloader CLI to download videos or playlists without complex options.
+- **<a href="https://github.com/abdullah-almsaodi/personalized-travel-planner">Personalized Travel Planner</a>**  
+  A Python-based travel planning project with personalized recommendations.
 
 ### Code Stats
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-almsaodi&amp;bg_color=2c3e50&amp;color=41b883&amp;line=41b883&amp;point=f6f8fa&amp;area=true&amp;hide_border=true">
