@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abdullah Almsaodi 👋
 
-<!--
-**abdullah-almsaodi/abdullah-almsaodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- Passionate about building software and continuously improving my skills
+- Interested in practical projects, clean code, and solving real problems
+- Open to collaboration on meaningful open-source work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Current focus:** Git, GitHub, and Markdown
+- **In progress:** Expanding this portfolio with additional languages and frameworks
+
+## 🚀 Featured Projects
+> More featured repositories will be added here as they are published.
+
+## 📈 GitHub Stats
+![GitHub contribution statistics for Abdullah Almsaodi](https://github-readme-stats.vercel.app/api?username=abdullah-almsaodi&show_icons=true&theme=transparent)
+![Programming language distribution for Abdullah Almsaodi repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-almsaodi&layout=compact&theme=transparent)
+
+## 📫 Contact
+- GitHub: [@abdullah-almsaodi](https://github.com/abdullah-almsaodi)
