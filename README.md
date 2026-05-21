@@ -16,35 +16,11 @@ I build scalable integrations, automation workflows, and full-stack applications
 </p>
 
 <div align="center">
-  <a href="https://github.com/Abdullah-Almsaodi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  </a>
+
 
   <a href="https://www.linkedin.com/in/abdullahalmsaodi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
-</div>
-
-### Tech Stack
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge">
-
-  <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="TailwindCSS badge">
-
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript badge">
-
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP badge">
-
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel badge">
-
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL badge">
-
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman badge">
-
-  <img src="https://img.shields.io/badge/API_Integration-0d1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="API badge">
-
 </div>
 
 ### Code Stats
