@@ -8,15 +8,11 @@ Welcome to my GitHub portfolio.
 - Open to collaboration on meaningful open-source work
 
 ## 🧰 Tech Stack
-- **Languages:** Markdown
-- **Platform:** GitHub
-- **Tools:** Git, GitHub
+- **Current focus:** Git, GitHub, and Markdown
+- **In progress:** Expanding this portfolio with additional languages and frameworks
 
 ## 🚀 Featured Projects
 > More featured repositories will be added here as they are published.
-
-- **GitHub Profile Repository** — My public GitHub profile README portfolio  
-  🔗 https://github.com/abdullah-almsaodi/abdullah-almsaodi
 
 ## 📈 GitHub Stats
 ![GitHub Stats for Abdullah Almsaodi](https://github-readme-stats.vercel.app/api?username=abdullah-almsaodi&show_icons=true&theme=transparent)
