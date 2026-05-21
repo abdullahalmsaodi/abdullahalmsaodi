@@ -25,7 +25,7 @@ I build scalable integrations, automation workflows, and full-stack applications
   </a>
 </div>
 
-## Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -47,9 +47,7 @@ I build scalable integrations, automation workflows, and full-stack applications
 
 </div>
 
----
-
-## Code Stats
+### Code Stats
 
 <p align="center">
   <img 
