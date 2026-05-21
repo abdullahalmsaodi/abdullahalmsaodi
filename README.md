@@ -26,10 +26,10 @@ I am a full-stack developer passionate about frontend engineering, animations, a
   A simplest YouTube downloader CLI to download videos or playlists without complex options.
 
 ### Code Stats
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hetari&amp;bg_color=2c3e50&amp;color=41b883&amp;line=41b883&amp;point=f6f8fa&amp;area=true&amp;hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-almsaodi&amp;bg_color=2c3e50&amp;color=41b883&amp;line=41b883&amp;point=f6f8fa&amp;area=true&amp;hide_border=true">
 
 <h1>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h1>
 
-<img src="https://hit.yhype.me/github/profile?account_id=108173819">
+<img src="https://hit.yhype.me/github/profile?account_id=163017469">
