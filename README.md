@@ -20,22 +20,14 @@ I build scalable integrations, automation workflows, and full-stack applications
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
 
-  <a href="mailto:abdullah.almsaodi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email badge" />
-  </a>
-
   <a href="https://www.linkedin.com/in/abdullahalmsaodi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
 </div>
 
----
-
 ## Tech Stack
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
 
   <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge">
 
