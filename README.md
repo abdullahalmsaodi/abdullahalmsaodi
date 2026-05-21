@@ -8,12 +8,12 @@ Welcome to my GitHub portfolio.
 - Open to collaboration on meaningful open-source work
 
 ## 🧰 Tech Stack
-- **Languages:** TODO - Add your main languages (e.g., JavaScript, Python, Java)
-- **Frameworks:** TODO - Add your frameworks/tools (e.g., React, Node.js, Django)
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** Markdown
+- **Platform:** GitHub
+- **Tools:** Git, GitHub
 
 ## 🚀 Featured Projects
-> TODO: Add more of your best repositories.
+> More featured repositories will be added here as they are published.
 
 - **GitHub Profile Repository** — My public GitHub profile README portfolio  
   🔗 https://github.com/abdullah-almsaodi/abdullah-almsaodi
@@ -24,4 +24,3 @@ Welcome to my GitHub portfolio.
 
 ## 📫 Contact
 - GitHub: [@abdullah-almsaodi](https://github.com/abdullah-almsaodi)
-- TODO: Add your email or LinkedIn here
