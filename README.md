@@ -11,9 +11,6 @@
   Integration Engineer • Full-Stack Developer • API & Automation Enthusiast
 </p>
 
-<p align="center">
-I build scalable integrations, automation workflows, and full-stack applications focused on reliability and problem solving.
-</p>
 
 <div align="center">
 
