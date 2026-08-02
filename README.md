@@ -24,7 +24,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Almsaodi&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f85149&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalmsaodi&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f85149&area=true&hide_border=true"
     width="100%"
   />
 </p>
