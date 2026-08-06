@@ -11,13 +11,14 @@
   Integration Engineer • Full-Stack Developer • API & Automation Enthusiast
 </p>
 
+<p align="center"> 
+  <strong>🌐 Connect with me</strong> 
+</p>
 
-<div align="center">
-
-
-  <a href="https://www.linkedin.com/in/abdullahalmsaodi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
+<div align="center"> 
+  <a href="https://linktr.ee/abdullahalmsaodi"> 
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree badge" /> 
+  </a> 
 </div>
 
 ### Code Stats
