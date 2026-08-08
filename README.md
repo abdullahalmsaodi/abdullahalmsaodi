@@ -8,7 +8,7 @@
 <h1 align="center">Abdullah Almsaodi</h1>
 
 <p align="center">
-  Integration Engineer • Full-Stack Developer • API & Automation Enthusiast
+Software Engineer • Integration Engineer • React.js • API & Automation Enthusiast
 </p>
 
 <p align="center"> 
