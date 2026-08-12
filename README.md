@@ -12,7 +12,7 @@ Software Engineer • Integration Engineer • React.js • API & Automation Ent
 </p>
 
 <p align="center"> 
-  <strong>🌐 Connect with me</strong> 
+  <strong>Keep connected with me:
 </p>
 
 <div align="center"> 
