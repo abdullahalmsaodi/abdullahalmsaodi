@@ -21,18 +21,19 @@ Software Engineer • Integration Engineer • React.js • API & Automation Ent
   </a> 
 </div>
 
+<!--
 ### Code Stats
-
-<p align="center">
+ <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalmsaodi&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f85149&area=true&hide_border=true"
     width="100%"
   />
 </p>
 
+</p> -->
+
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
     width="100%"
   />
-</p>
